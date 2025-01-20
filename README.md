@@ -11,9 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hello :) This is Sherry Xueer Hao. I am a 2nd year MAM (Master of Arts Management) at Heinz College, and I will be graduating this May.
-
-My home is Beijing, China.
+Hello :) This is Sherry Xueer Hao. I am a 2nd year MAM (Master of Arts Management) at Heinz College, and I will be graduating this May. My home is Beijing, China.
 
 Fun facts about me: I practice fencing and swordfight people two times a week. I have two dogs back home with my parents (you can ask me to show you my dog pics anytime!)
 ![my dog](my-dog.jpg)
