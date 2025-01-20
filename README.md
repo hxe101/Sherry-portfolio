@@ -11,20 +11,21 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello :) This is Sherry Xueer Hao. I am a 2nd year MAM (Master of Arts Management) at Heinz College, and I will be graduating this May.
+
+My home is Beijing, China.
+
+Fun facts about me: I practice fencing and swordfight people two times a week. I have two dogs back home with my parents (you can ask me to show you my dog pics anytime!)
+![my dog](my-dog.jpg)
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+1. How to evaluate if a graph / dataviz is good, and why is it good / not good.
+2. Explore new resources and platforms (like this one!) that I would otherwise not try out myself.
+3. Creat accurate, well-designed and narratively interesting graphs.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Plan after graduation:
+In the next 3 to 4 years after graduation, I'd like to work at a museum or visual art nonprofit, in a medium sized city (like Pittsburgh) with flourish art community. Position of interest would be development, programming and general management.
+Or working for Semester At Sea (it is a college program on the cruise, what's not to love!)
 
 # Portfolio
 
