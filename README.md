@@ -14,7 +14,9 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hello :) This is Sherry Xueer Hao. I am a 2nd year MAM (Master of Arts Management) at Heinz College, and I will be graduating this May. My home is Beijing, China.
 
 Fun facts about me: I practice fencing and swordfight people two times a week. I have two dogs back home with my parents (you can ask me to show you my dog pics anytime!)
-![my dog](my-dog.jpg)
+
+![my-dog](https://github.com/user-attachments/assets/33817d89-50e5-49b2-9e1b-cd642a980378)
+<img src="(https://github.com/user-attachments/assets/33817d89-50e5-49b2-9e1b-cd642a980378)" width="10"/>
 
 # What I hope to learn
 1. How to evaluate if a graph / dataviz is good, and why is it good / not good.
@@ -23,6 +25,7 @@ Fun facts about me: I practice fencing and swordfight people two times a week. I
 
 Plan after graduation:
 In the next 3 to 4 years after graduation, I'd like to work at a museum or visual art nonprofit, in a medium sized city (like Pittsburgh) with flourish art community. Position of interest would be development, programming and general management.
+
 Or working for Semester At Sea (it is a college program on the cruise, what's not to love!)
 
 # Portfolio
@@ -105,7 +108,3 @@ Looking for more?  A nice Markdown guide [can be found here](https://www.markdow
 
 ## References
 _List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
