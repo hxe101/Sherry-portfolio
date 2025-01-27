@@ -6,3 +6,5 @@ _You can place some of your data viz examples from the course here.  Make sure t
 
 <iframe 
 src="https://public.tableau.com/views/GeneralGovernmentDebttoGDPRatios/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+
+https://public.tableau.com/views/GeneralGovernmentDebttoGDPRatios/Sheet1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
