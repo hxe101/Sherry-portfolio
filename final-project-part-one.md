@@ -36,12 +36,17 @@ I'm having trouble finding a complete dataset, and most Chinese sources I came a
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
+
 |The reproduction of regional inequality through university access: the Gaokao in China|
+
 |https://www.tandfonline.com/doi/full/10.1080/23792949.2018.1559703?casa_token=FY-_2XFgF5wAAAAA%3Anoo75oP92SgN5cUXWFqjw5VqLTHiDTYpdfOpvqrl-CMwSxyHZr4_-TLehUHKOpRdvCHv2DDrPy4#d1e1948|
+
 |Regional inequality is one side of the "double-edged sword" narration, and this article included valuable data and analysis illustrating that idea.|
 
 |China: monthly salary of university graduates 2023|
+
 |https://www.statista.com/statistics/252912/monthly-salary-of-university-graduates-in-china/|
+
 |In one section of narration, I intend to talk about how attending college could drastically change one's future to explain the potential possitive impact of Gaokao. This data might be useful evidence to support this idea.|
 
 
