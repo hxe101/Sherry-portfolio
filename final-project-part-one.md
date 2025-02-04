@@ -43,6 +43,7 @@ I'm having trouble finding a complete dataset, and most Chinese sources I came a
 
 |Regional inequality is one side of the "double-edged sword" narration, and this article included valuable data and analysis illustrating that idea.|
 
+
 |China: monthly salary of university graduates 2023|
 
 |https://www.statista.com/statistics/252912/monthly-salary-of-university-graduates-in-china/|
