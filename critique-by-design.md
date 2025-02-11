@@ -8,7 +8,6 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 What Schools Create the Most Student Loans in the U.S.?
 
@@ -21,11 +20,13 @@ I like visually busy visualizations because there are so much to work with, also
 
 
 ## Step two: the critique
+
 The map graph type is good for showing trends. But this visualization is too visually busy, and many interpretations of trends could be drawn. I'm not sure if I should pay attention to the number of public schools shown on the map (large group of color), or the total amount of loans in each school (money amount represented with different color).
 
 
 ## Step three: Sketch a solution
-There are three way of fixing it.
+
+There are three ways of fixing it.
 
 Method 1: keep the map graph, minus the logos of school and their names, and each school's loan amount.
 ![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959)
