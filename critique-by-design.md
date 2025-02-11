@@ -11,6 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 What Schools Create the Most Student Loans in the U.S.?
+
 https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state
 
 ![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619)
@@ -18,10 +19,25 @@ https://howmuch.net/articles/university-with-the-most-student-loan-originations-
 
 I like visually busy visualizations because there are so much to work with, also I haven't tryed making heat map yet. This particualr visualization is a perfect combination of two.
 
+
 ## Step two: the critique
+The map graph type is good for showing trends. But this visualization is too visually busy, and many interpretations of trends could be drawn. I'm not sure if I should pay attention to the number of public schools shown on the map (large group of color), or the total amount of loans in each school (money amount represented with different color).
 
 
 ## Step three: Sketch a solution
+There are three way of fixing it.
+
+Method 1: keep the map graph, minus the logos of school and their names, and each school's loan amount.
+![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959)
+
+
+Method 2-1: use bar chart, and group the bars using school types.
+![9df5983e77628ae4f9526fe3e59fb67](https://github.com/user-attachments/assets/ced59e45-1ca2-45e0-a29a-1f1b84276b63)
+
+
+Method 2-2: use bar chart, and group the bars using total loan amount range.
+![0e42421e8254f4a7262d067c8a2af87](https://github.com/user-attachments/assets/4e72755b-4c9b-4e6e-8bf0-d7a1d830e515)
+
 
 ## Step four: Test the solution
 
