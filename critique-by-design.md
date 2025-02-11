@@ -63,9 +63,9 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.             |              |
+|Can you describe to me what this is telling you?          |There's a lot of pink, which represents public school, on this graph.             | The highest loan ($500M and more) comes from a public school.            |
+|Is there anything you find surprising or confusing?|The terms "Total Loans Originated" and "Proprietary" are confusing. They are jargons that we don't use in daily lifes. Maybe it will be obvious to the targeted audience, but they are not obvious to me.| The grey blocks in the color label (under "$100-299M" and "$500 M and more") are confusing. I try to find them on the graph but what they actually mean is null or N/A.|
 
 Synthesis: 
 
