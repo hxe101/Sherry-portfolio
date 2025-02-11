@@ -8,11 +8,18 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+What Schools Create the Most Student Loans in the U.S.?
+https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state
+
+![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619)
+
+
+I like visually busy visualizations because there are so much to work with, also I haven't tryed making heat map yet. This particualr visualization is a perfect combination of two.
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
 
 ## Step three: Sketch a solution
 
