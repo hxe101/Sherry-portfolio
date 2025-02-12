@@ -76,8 +76,7 @@ My redesign draft already exclude the school logos and specific loan amount for 
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
-<iframe title="When it comes to the most student loans originated in each state, public universities take the cake" aria-label="Map" id="datawrapper-chart-iaKdq" src="https://datawrapper.dwcdn.net/iaKdq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="518" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
+<div style="min-height:518px" id="datawrapper-vis-iaKdq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/iaKdq/embed.js" charset="utf-8" data-target="#datawrapper-vis-iaKdq"></script><noscript><img src="https://datawrapper.dwcdn.net/iaKdq/full.png" alt="" /></noscript></div>
 
 ## References
 _List any references you used here._
