@@ -79,6 +79,7 @@ Building on the draf mentioned above, I went a step further and get rid of the f
 <div style="min-height:518px" id="datawrapper-vis-iaKdq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/iaKdq/embed.js" charset="utf-8" data-target="#datawrapper-vis-iaKdq"></script><noscript><img src="https://datawrapper.dwcdn.net/iaKdq/full.png" alt="" /></noscript></div>
 
 
+
 I also used Tableau to creat the two bar charts, each focusing on a different narration.
 
 The first one here has the same narration as the map, which highlights the large amount of public schools. I picked the orange color pallet to represent each loan range.
@@ -91,7 +92,9 @@ The first one here has the same narration as the map, which highlights the large
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 The second bar chart focuses on the loan range. Since each bar represents school type, I keep the original color pallet of pink, green-blue, and purple.
+
 
 <div class='tableauPlaceholder' id='viz1739330259613' style='position: relative'><noscript><a href='#'><img alt='The most frequently seen loan range is between $100M - 299M. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Schoolloan-loanrange&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739330259613');                    
