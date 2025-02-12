@@ -13,7 +13,7 @@ What Schools Create the Most Student Loans in the U.S.?
 
 https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state
 
-![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619)
+<![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619) width='400'/>
 
 
 I like visually busy visualizations because there are so much to work with, also I haven't tryed making heat map yet. This particualr visualization is a perfect combination of two.
