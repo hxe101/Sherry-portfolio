@@ -56,9 +56,9 @@ Questions to ask (modify these for your own interviews):
 Results: for the map graph
 | Question | Interview 1 - classmate from MAM 2 | Interview 2 - classmate from MSPPM|
 |----------|-------------|-------------|
-|Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.             |I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
-|Can you describe to me what this is telling you?          |There's a lot of pink, which represents public school, on this graph.             |I think this graph tells me the loans in each state based on three categories: public, private-nonprofit, proprietary. |
-|Who do you think is the intended audience for this?| Based on the jargons, this might be aiming at financial people who are familiar with the terms.            |Government agencies, or schools related policy makers.            |
+|Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.|I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
+|Can you describe to me what this is telling you?|There's a lot of pink, which represents public school, on this graph.|I think this graph tells me the loans in each state based on three categories: public, private-nonprofit, proprietary. |
+|Who do you think is the intended audience for this?| Based on the jargons, this might be aiming at financial people who are familiar with the terms.|Government agencies, or schools related policy makers.|
 |Is there anything you find surprising or confusing?|The terms "Total Loans Originated" and "Proprietary" are confusing. They are jargons that we don't use in daily lifes. Maybe it will be obvious to the targeted audience, but they are not obvious to me.| The grey blocks in the color label (under "$100-299M" and "$500 M and more") are confusing. I try to find them on the graph but what they actually mean is null or N/A.|
 |Is there anything you would change or do differently?|I would try to avoid using red/pink and green together. The color conbination might not be color-blind friendly.|I suggest to focus on what you want to tell to audience. Do you want to focus on public school’s loan? Or do you want to compare the public school vs private school?|
 
@@ -74,6 +74,7 @@ I used Datawrapper to create the heat map.
 Building on the draf mentioned above, I went a step further and get rid of the four shadings for each loan range. Now the graph only concerns different types of schools. The new title also tells audience clearly what the trend is. I want the narration to highlight the main takeaway in the original article: "Our map clearly demonstrates how the majority of student loans come from public universities."
 
 <div style="min-height:518px" id="datawrapper-vis-iaKdq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/iaKdq/embed.js" charset="utf-8" data-target="#datawrapper-vis-iaKdq"></script><noscript><img src="https://datawrapper.dwcdn.net/iaKdq/full.png" alt="" /></noscript></div>
+
 
 
 
@@ -94,9 +95,9 @@ The first one here has the same narration as the map, which highlights the large
 The second bar chart focuses on the loan range. Since each bar represents school type, I keep the original color pallet of pink, green-blue, and purple.
 
 
-<div class='tableauPlaceholder' id='viz1739330259613' style='position: relative'><noscript><a href='#'><img alt='The most frequently seen loan range is between $100M - 299M. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Schoolloan-loanrange&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1739330600699' style='position: relative'><noscript><a href='#'><img alt='The most frequently seen loan range is between $100M - 299M. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Schoolloan-loanrange&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sc&#47;Schoolloan-loanrange&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1739330259613');                    
+  var divElement = document.getElementById('viz1739330600699');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
