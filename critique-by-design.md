@@ -56,9 +56,7 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
-Results: 
-
-## For the map graph
+Results: for the map graph
 | Question | Interview 1 - classmate from MAM 2 | Interview 2 - classmate from MSPPM|
 |----------|-------------|-------------|
 |Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.             |I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
@@ -74,13 +72,12 @@ My redesign draft already exclude the school logos and specific loan amount for 
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 I used Datawrapper to create the heat map.
 
 Building on the draf mentioned above, I went a step further and get rid of the four shadings for each loan range. Now the graph only concerns different types of schools. The new title also tells audience clearly what the trend is. I want the narration to highlight the main takeaway in the original article: "Our map clearly demonstrates how the majority of student loans come from public universities."
 
 <div style="min-height:518px" id="datawrapper-vis-iaKdq"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/iaKdq/embed.js" charset="utf-8" data-target="#datawrapper-vis-iaKdq"></script><noscript><img src="https://datawrapper.dwcdn.net/iaKdq/full.png" alt="" /></noscript></div>
+
 
 I also used Tableau to creat the two bar charts, each focusing on a different narration.
 
