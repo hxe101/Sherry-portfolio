@@ -54,12 +54,13 @@ Questions to ask (modify these for your own interviews):
 - Is there anything you would change or do differently?
 
 Results: for the map graph
+
 | Question | Interview 1 - classmate from MAM 2 | Interview 2 - classmate from MSPPM|
 |----------|-------------|-------------|
-|Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.|I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
-|Can you describe to me what this is telling you?|There's a lot of pink, which represents public school, on this graph.|I think this graph tells me the loans in each state based on three categories: public, private-nonprofit, proprietary. |
-|Who do you think is the intended audience for this?| Based on the jargons, this might be aiming at financial people who are familiar with the terms.|Government agencies, or schools related policy makers.|
-|Is there anything you find surprising or confusing?|The terms "Total Loans Originated" and "Proprietary" are confusing. They are jargons that we don't use in daily lifes. Maybe it will be obvious to the targeted audience, but they are not obvious to me.| The grey blocks in the color label (under "$100-299M" and "$500 M and more") are confusing. I try to find them on the graph but what they actually mean is null or N/A.|
+|Can you tell me what you think this is?|It shows the distribution and trends of school loans across the state.|I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
+|Can you describe to me what this is telling you?|There's a lot of pink, which represents public school, on this graph.|I think this graph tells me the loans in each state based on three categories: public, private-nonprofit, proprietary.|
+|Who do you think is the intended audience for this?|Based on the jargons, this might be aiming at financial people who are familiar with the terms.|Government agencies, or schools related policy makers.|
+|Is there anything you find surprising or confusing?|The terms "Total Loans Originated" and "Proprietary" are confusing. They are jargons that we don't use in daily lifes. Maybe it will be obvious to the targeted audience, but they are not obvious to me.|The grey blocks in the color label (under "$100-299M" and "$500 M and more") are confusing. I try to find them on the graph but what they actually mean is null or N/A.|
 |Is there anything you would change or do differently?|I would try to avoid using red/pink and green together. The color conbination might not be color-blind friendly.|I suggest to focus on what you want to tell to audience. Do you want to focus on public school’s loan? Or do you want to compare the public school vs private school?|
 
 
