@@ -1,6 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and Redesign
+On this page, I will document my redisign process.
+
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
 
@@ -10,7 +12,7 @@ What Schools Create the Most Student Loans in the U.S.?
 
 https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state
 
-![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619)
+![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619){ width=300px }
 
 
 I like visually busy visualizations because there are so much to work with, also I haven't tryed making heat map yet. This particualr visualization is a perfect combination of two.
@@ -18,7 +20,7 @@ I like visually busy visualizations because there are so much to work with, also
 
 ## Step two: the critique
 
-The map graph type is good for showing trends. But this visualization is too visually busy, and many interpretations of trends could be drawn. I'm not sure if I should pay attention to the number of public schools shown on the map (large group of color), or the total amount of loans in each school (money amount represented with different color).
+The map graph type is good for showing trends. But this visualization is too visually busy, and many interpretations of trends could be drawn. I'm not sure if I should pay attention to the number of public schools shown on the map (large group of color), or the total amount of loans in each school (loan amount represented with different color).
 
 
 ## Step three: Sketch a solution
