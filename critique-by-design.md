@@ -10,7 +10,7 @@ What Schools Create the Most Student Loans in the U.S.?
 
 https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state
 
-![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619){ width=300px }
+![cfdd933e5844990cf476406f13b4cce](https://github.com/user-attachments/assets/55aa7cc7-8fa9-4e87-bb94-e954cd4be619){ width=200px }
 
 
 I like visually busy visualizations because there are so much to work with, also I haven't tryed making heat map yet. This particualr visualization is a perfect combination of two.
@@ -26,15 +26,15 @@ The map graph type is good for showing trends. But this visualization is too vis
 There are three ways of fixing it.
 
 Method 1: keep the map graph, minus the logos of school and their names, and each school's loan amount.
-![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959){ width=300px }
+![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959){ width=200px }
 
 
 Method 2-1: use bar chart, and group the bars using school types.
-![9df5983e77628ae4f9526fe3e59fb67](https://github.com/user-attachments/assets/ced59e45-1ca2-45e0-a29a-1f1b84276b63){ width=300px }
+![9df5983e77628ae4f9526fe3e59fb67](https://github.com/user-attachments/assets/ced59e45-1ca2-45e0-a29a-1f1b84276b63){ width=200px }
 
 
 Method 2-2: use bar chart, and group the bars using total loan amount range.
-![0e42421e8254f4a7262d067c8a2af87](https://github.com/user-attachments/assets/4e72755b-4c9b-4e6e-8bf0-d7a1d830e515){ width=300px }
+![0e42421e8254f4a7262d067c8a2af87](https://github.com/user-attachments/assets/4e72755b-4c9b-4e6e-8bf0-d7a1d830e515){ width=200px }
 
 
 ## Step four: Test the solution
