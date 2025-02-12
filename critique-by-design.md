@@ -1,8 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and Redesign
-On this page, I will document my redisign process.
-
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
 
@@ -28,15 +26,15 @@ The map graph type is good for showing trends. But this visualization is too vis
 There are three ways of fixing it.
 
 Method 1: keep the map graph, minus the logos of school and their names, and each school's loan amount.
-![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959)
+![530d966da7610203b5ef7f433642e2f](https://github.com/user-attachments/assets/2eb2951d-2c28-4588-895d-406b641bf959){ width=300px }
 
 
 Method 2-1: use bar chart, and group the bars using school types.
-![9df5983e77628ae4f9526fe3e59fb67](https://github.com/user-attachments/assets/ced59e45-1ca2-45e0-a29a-1f1b84276b63)
+![9df5983e77628ae4f9526fe3e59fb67](https://github.com/user-attachments/assets/ced59e45-1ca2-45e0-a29a-1f1b84276b63){ width=300px }
 
 
 Method 2-2: use bar chart, and group the bars using total loan amount range.
-![0e42421e8254f4a7262d067c8a2af87](https://github.com/user-attachments/assets/4e72755b-4c9b-4e6e-8bf0-d7a1d830e515)
+![0e42421e8254f4a7262d067c8a2af87](https://github.com/user-attachments/assets/4e72755b-4c9b-4e6e-8bf0-d7a1d830e515){ width=300px }
 
 
 ## Step four: Test the solution
