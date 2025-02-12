@@ -58,9 +58,7 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-**For the map graph
+## For the map graph
 | Question | Interview 1 - classmate from MAM 2 | Interview 2 - classmate from MSPPM|
 |----------|-------------|-------------|
 |Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.             |I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
@@ -72,11 +70,14 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+My redesign draft already exclude the school logos and specific loan amount for each school, yet my interviewee still find it visually busy. Using three color for different school types and four shades for each color representing loan range is still too much visual elements on one graph. Depending on the narrative I want to highlight, it is better to take down a few things.
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+<iframe title="When it comes to the most student loans originated in each state, public universities take the cake" aria-label="Map" id="datawrapper-chart-iaKdq" src="https://datawrapper.dwcdn.net/iaKdq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="518" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 ## References
 _List any references you used here._
