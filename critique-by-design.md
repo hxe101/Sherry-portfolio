@@ -60,8 +60,8 @@ Results:
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
-For the map graph
-| Question | Interview 1 | Interview 2 |
+**For the map graph
+| Question | Interview 1 - classmate from MAM 2 | Interview 2 - classmate from MSPPM|
 |----------|-------------|-------------|
 |Can you tell me what you think this is?| It shows the distribution and trends of school loans across the state.             |I think this graph tells about the loans in the US. There are three color pallets and my eyes need to travel a lot to find the information. It takes time to figure out.|
 |Can you describe to me what this is telling you?          |There's a lot of pink, which represents public school, on this graph.             |I think this graph tells me the loans in each state based on three categories: public, private-nonprofit, proprietary. |
