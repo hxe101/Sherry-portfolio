@@ -84,3 +84,9 @@ _List any references you used here._
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+I used ChatGPT to 1)collect data and 2) help me navigate Tableau.
+
+Becuase there's no dataset avialble from the website of the original visualization, I uploaded the original heat map to ChatGPT and ask it to collect data from it. The result was an excel form with some mistakes. I then manually clarify the data.
+
+I then ask ChatGPT how to create the drafted graph in Tableau.
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/78655a72-e374-4d66-8b42-8401a45071b7" />
