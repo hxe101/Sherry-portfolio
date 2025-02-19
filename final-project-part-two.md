@@ -17,6 +17,7 @@ Insipred by the Netflix Explained mini documentary series, I decided to frame my
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Chinese students who have taken the exam, but don't have a comprehensive understanding of the exam.
+
 People who haven't take the exam, but had heard stories about it and is curious to know more.
 
 ## Interview script
@@ -38,7 +39,7 @@ People who haven't take the exam, but had heard stories about it and is curious 
 |-------------------------|--------------------------------|-------------|-------------|
 |How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| The images, espically the book-walls on the desks, reminded me of my time preparing for the exam. (She also catches a few typoes.)           |The opening pages created a good hook and really captured my attention!             |             |
 |Is the key points in my outline accurate? | Confirmed. She also mentioned that other provinces' policy and admission rate were not important to her when she took the exam. It shows that for an individual the national trend might not be that obvious or relavent, despite how it might impact.|     /      |      /      |
-|                         |                                |             |             |
+|How do you suggest I continue building this project? What other aspects of the topic you'd like to see?|                                |Include personal story/narrative to make the narration more impactful. You can include both the good and the bad personal expereince to create a more complex narration.             |A timeline showing the history of Gaokao. Not the full history but definetely include major events.             |
 
 
 # Identified changes for Part III
