@@ -36,7 +36,7 @@ People who haven't take the exam, but had heard stories about it and is curious 
 
 | Questions               | Interview 1: Roommate who had taken Gaokao before | Interview 2: MEIM Classmate | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| (She catches a few typoes)            |The opening pages created a good hook and really captured my attention!             |             |
+|How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| The images, espically the book-walls on the desks, reminded me of my time preparing for the exam. (She also catches a few typoes.)           |The opening pages created a good hook and really captured my attention!             |             |
 |Is the key points in my outline accurate? | Confirmed. She also mentioned that other provinces' policy and admission rate were not important to her when she took the exam. It shows that for an individual the national trend might not be that obvious or relavent, despite how it might impact.|     /      |      /      |
 |                         |                                |             |             |
 
