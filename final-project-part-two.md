@@ -35,11 +35,11 @@ People who haven't take the exam, but had heard stories about it and is curious 
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 
-| Questions               | Interview 1: Roommate who had taken Gaokao before | Interview 2| Interview 3 |
+| Questions               | Interview 1: Roommate who had taken Gaokao before | Interview 2: MEIM Classmate| Interview 3: MAM classmate |
 |-------------------------|--------------------------------|-------------|-------------|
 |How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| The images, espically the book-walls on the desks, reminded me of my time preparing for the exam. (She also catches a few typoes.)           |The opening pages created a good hook and really captured my attention!             |             |
 |Is the key points in my outline accurate? | Confirmed. She also mentioned that other provinces' policy and admission rate were not important to her when she took the exam. It shows that for an individual the national trend might not be that obvious or relavent, despite how it might impact.|     /      |      /      |
-|How do you suggest I continue building this project? What other aspects of the topic you'd like to see?|                                |Include personal story/narrative to make the narration more impactful. You can include both the good and the bad personal expereince to create a more complex narration.             |A timeline showing the history of Gaokao. Not the full history but definetely include major events.             |
+|How do you suggest I continue building this project? What other aspects of the topic you'd like to see?|You can add a student schedule to show how they prepare the exam in the Competitive section.                                |Include personal story/narrative to make the narration more impactful. You can include both the good and the bad personal expereince to create a more complex narration.             |A timeline showing the history of Gaokao. Not the full history but definetely include major events.             |
 
 
 # Identified changes for Part III
