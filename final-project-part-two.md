@@ -1,7 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
+
+https://app.shorthand.com/organisations/JSrgFWI7zn/stories/19k5oyNW4p
 
 I made a major scope change in the second stage of the draft.
 
@@ -50,8 +52,6 @@ People who haven't take the exam, but had heard stories about it and is curious 
 |Change of scope leads to a new outline. There should be more data to support the new key points. |Right now, for each key point I have a graph to support it. While map is the most logical and obvious choice, I want to try out different types of graph to make my Shorthand page looks more engaging.|
 |Show, not tell. One way of making the narration more impactful and easier to absorb is for audience to come up with the conclusion/main takeaway themselves quickly.                                         |To do so, I need subtle but effective visual designs and guidance.                                                                               |
 |Shorthand is unique in creating dynamic layouts and moveable elements. I want to ultilize that feature and create something that best employe such formate.                                         |Try out more layouts, and avoid creating a page that has a huge block of text.                                                                          |
-
-> ...include any final thoughts you have here. 
 
 Starting early is a life-saving decision. I assumed my topic would have plenty of data and it didn't turned out that way at all. After talking with my peers, I realize that changing the scope after initial research is not that uncommon though.
 
