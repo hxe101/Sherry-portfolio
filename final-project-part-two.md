@@ -48,7 +48,7 @@ People who haven't take the exam, but had heard stories about it and is curious 
 | Research synthesis                       | Anticipated changes for Part III                                              |
 |------------------------------------------|-------------------------------------------------------------------------------|
 |Change of scope leads to a new outline. There should be more data to support the new key points. |Right now, for each key point I have a graph to support it. While map is the most logical and obvious choice, I want to try out different types of graph to make my Shorthand page looks more engaging.|
-|Show, not tell. One way of making the narration more impactful and easier to absorb is for audience to come up with the conclusion/main takeaway themselves quickly.                                         |To do so, I need subtle but effective visual                                                                                |
+|Show, not tell. One way of making the narration more impactful and easier to absorb is for audience to come up with the conclusion/main takeaway themselves quickly.                                         |To do so, I need subtle but effective visual designs and guidance.                                                                               |
 |Shorthand is unique in creating dynamic layouts and moveable elements. I want to ultilize that feature and create something that best employe such formate.                                         |Try out more layouts, and avoid creating a page that has a huge block of text.                                                                          |
 
 > ...include any final thoughts you have here. 
