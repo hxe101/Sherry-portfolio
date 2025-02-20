@@ -37,7 +37,7 @@ People who haven't take the exam, but had heard stories about it and is curious 
 
 | Questions               | Interview 1: Roommate who had taken Gaokao before | Interview 2: MEIM Classmate| Interview 3: MAM classmate |
 |-------------------------|--------------------------------|-------------|-------------|
-|How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| The images, espically the book-walls on the desks, reminded me of my time preparing for the exam. (She also catches a few typoes.)           |The opening pages created a good hook and really captured my attention!             |             |
+|How is the layout/visual design looks to you? Is it easy to read the text and absorb information?| The images, espically the book-walls on the desks, reminded me of my time preparing for the exam. (She also catches a few typoes.)           |Texts could be bigger.              |The opening pages created a good hook and really captured my attention!             |
 |Is the key points in my outline accurate? | Confirmed. She also mentioned that other provinces' policy and admission rate were not important to her when she took the exam. It shows that for an individual the national trend might not be that obvious or relavent, despite how it might impact.|     /      |      /      |
 |How do you suggest I continue building this project? What other aspects of the topic you'd like to see?|You can add a student schedule to show how they prepare the exam in the Competitive section.                                |Include personal story/narrative to make the narration more impactful. You can include both the good and the bad personal expereince to create a more complex narration.             |A timeline showing the history of Gaokao. Not the full history but definetely include major events.             |
 
@@ -45,24 +45,17 @@ People who haven't take the exam, but had heard stories about it and is curious 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                              |
 |------------------------------------------|-------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                               |
-|                                          |                                                                               |
-|                                          |                                                                               |
-| ...add more rows as necessary            |                                                                               |
+|Change of scope leads to a new outline. There should be more data to support the new key points. |Right now, for each key point I have a graph to support it. While map is the most logical and obvious choice, I want to try out different types of graph to make my Shorthand page looks more engaging.|
+|Show, not tell. One way of making the narration more impactful and easier to absorb is for audience to come up with the conclusion/main takeaway themselves quickly.                                         |To do so, I need subtle but effective visual                                                                                |
+|Shorthand is unique in creating dynamic layouts and moveable elements. I want to ultilize that feature and create something that best employe such formate.                                         |Try out more layouts, and avoid creating a page that has a huge block of text.                                                                          |
 
 > ...include any final thoughts you have here. 
 
-Text here!
+Starting early is a life-saving decision. I assumed my topic would have plenty of data and it didn't turned out that way at all. After talking with my peers, I realize that changing the scope after initial research is not that uncommon though.
 
 
 ## References
 _List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
