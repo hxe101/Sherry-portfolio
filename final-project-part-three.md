@@ -35,6 +35,5 @@ In Part II I said to avoid using big block of text. To do so, I break my big tex
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-The project is harder than I imagined. There is no pre-organized dataset ready to use, so I have to scrap my own data. I hope I could create more professional-looking designs, but for now I think I managed to do my best. I also struggled to obtain appropriate images as mentioned before.
-
+The project is harder than I imagined. There is no pre-organized dataset ready to use, so I have to scrap my own data. I hope I could create more professional-looking designs, but for now I think I managed to do my best. I also struggled to obtain appropriate images as mentioned before. Materalizing concept takes time. While I like this project and full-heartedly want to create a great work, endless investment of time and energy is not realistic. It is key to mindfully allocating limited time to get the most of a design.
 
