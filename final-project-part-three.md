@@ -3,7 +3,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+[Text here!](https://preview.shorthand.com/vv4x5lgeqrQ7eOA2)
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
@@ -29,11 +29,12 @@ The biggest change is the images. I was facing a delima: images I can use withou
 In Part II I said to avoid using big block of text. To do so, I break my big text blocks into shorter paragraphs with graphs embedded inbetween. I want to best ultilize the scrolling feature of Shorthand to create something visually dynamic.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> **You should have already included detailed references on your Shorthand story**
+Please see Shorthand story for references.
 
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-The project is harder than I imagined. There is no pre-organized dataset ready to use, so I have to scrap my own data. I hope I could create more professional-looking designs, but for now I think I managed to do my best. I also struggled to obtain appropriate images as mentioned before. Materalizing concept takes time. While I like this project and full-heartedly want to create a great work, endless investment of time and energy is not realistic. It is key to mindfully allocating limited time to get the most of a design.
+The project is harder than I imagined. Not hard to make, but takes more time to make it as "perfect" as I want it to be. There is no pre-organized dataset ready to use, so I have to scrap my own data. I hope I could create more professional-looking designs, but for now I think I managed to do my best. I also struggled to obtain appropriate images as mentioned before. While I like this project and full-heartedly want to create a great work, endless investment of time and energy is not realistic. It is key to mindfully allocating limited time to get the most of a design.
 
