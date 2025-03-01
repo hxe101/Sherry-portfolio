@@ -11,7 +11,7 @@ https://preview.shorthand.com/vv4x5lgeqrQ7eOA2
 
 I added the call to action section at the end. I got inspiration from my parents when interviewing them for my latest iteration of design. The best way to address "what can audience do with the information from the story" is to connect it to the future, and AI is the inevitable future. For most people, Gaokao is a pathway to higher education, which is directly associated with good jobs. But the job market is changing drastically, with AI being one of the reason. Gaokao has exsisted for more than 40 years, but no one can say for sure that it will continue exsisting in the future as the world changes. It might be harmful for people to continue glorify Gaokao as a challange that put one's knowledge, determination and perseverance to test, instead of viewing it as a not-very-effecient selecting system. So, now might be the time to reevaluate the system.
 
-I know it is easier said than done, and my story didn't provide an actionable solution. But in order to improve amything, it is key to see the problem first. And that's what my story trying to achieve.
+I know it is easier said than done, and my story didn't provide an actionable solution. But it is key to see the problem first in order to improve it. And that's what my story trying to achieve.
 
 I debated whether to add a timeline summarizing the history of Gaokao and its reform over the years. I didn't add it becasue 1.while it is nice to have, it does not add more impact to the main takaway of my story (Gaokao is important and messy); 2.design-wise, it is hard to edit and took too much time to make it pretty.
 
