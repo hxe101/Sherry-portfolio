@@ -5,6 +5,7 @@
 
 https://preview.shorthand.com/vv4x5lgeqrQ7eOA2
 
+
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
@@ -30,6 +31,7 @@ In Part II I said to avoid using big block of text. To do so, I break my big tex
 
 ## References
 > **You should have already included detailed references on your Shorthand story**
+
 Please see Shorthand story for references.
 
 
