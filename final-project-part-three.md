@@ -3,7 +3,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-[Text here!](https://preview.shorthand.com/vv4x5lgeqrQ7eOA2)
+https://preview.shorthand.com/vv4x5lgeqrQ7eOA2
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
