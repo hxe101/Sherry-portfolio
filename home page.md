@@ -32,8 +32,3 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 The insipiration for the final project came from chatting with a non-Asian friend. They said they've heard Gaokao was a crazy experience, but didn't know how accurate that statement is. I imagine that people who weren't born and raised or go to school in China will probably have the same impression. I think topics that are vaguely familiar to the audience would be worthy to dive deeper into: it is not too niche and audience might be curious to learn more about it.
-
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
